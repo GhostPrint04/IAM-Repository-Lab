@@ -62,3 +62,6 @@ This lab was created to practice IAM concepts such as:
 - CSV-based provisioning
 - PowerShell automation
 - User onboarding and offboarding
+
+---
+Robert Gomez | IAM Enthusiast | Per Scholas IT Support
